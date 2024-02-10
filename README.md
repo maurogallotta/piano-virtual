@@ -2,7 +2,7 @@
 
 Esse jogo foi desenvolvido durante o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos 
 
-Varios conceitos e desafios para criar este projeto, para conectar todas as peças e criar a melhor versão deste "Piano virtual", antende melhor o uso do DOM e vamos no proximo desafio!
+Varios conceitos e desafios para criar este projeto, para conectar todas as peças e criar a melhor versão deste "Piano virtual", foi bom para aprender melhor o uso do DOM e vamos no proximo desafio!
 
 ### Tecnologias Utilizadas Para Este Game
 
