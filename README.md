@@ -1,10 +1,8 @@
 ## Piano Virtual
 
-<p align="center">
-  <img src="./.github/preview.gif" alt="Jogo de um Piano Virtual">
-</p>
+Esse jogo foi desenvolvido durante o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos 
 
-Esse jogo foi desenvolvido durante o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos
+Varios conceitos e desafios para criar este projeto, para conectar todas as peças e criar a melhor versão deste "Piano virtual", antende melhor o uso do DOM e vamos no proximo desafio!
 
 ### Tecnologias Utilizadas Para Este Game
 
