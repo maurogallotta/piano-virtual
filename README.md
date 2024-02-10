@@ -12,4 +12,4 @@ Esse jogo foi desenvolvido durante o Bootcamp: Potência Tech iFood - Desenvolvi
   - HTML e CSS: - Para a estrutura e aparência do jogo.
   - JavaScript: - Para a lógica de programação e interatividade.
 
-  PARA MAIS INFORMAÇÕES VISITA O MEU SITE <a href="https://maurogallotta.com/projetos-de-games/" target="_BLANK> Www.MauroGallotta.Com </a>
+  PARA MAIS INFORMAÇÕES VISITA O MEU SITE:  Www.MauroGallotta.Com
